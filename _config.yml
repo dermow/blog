@@ -1,4 +1,4 @@
-title: staging.der-mow.de
+title: dermow.github.io/blog
 author:
   name: dermow
   email: s.seibold@posteo.de
@@ -6,10 +6,6 @@ author:
 show_excerpts: true # set to true to show excerpts on the homepage
 excerpt_separator: <!-- excerpt-end -->
 google_analytics: false
-
-disqus:
-  shortname: der-mow
-  url: https://staging.der-mow.de
 
 minima:
   date_format: "%b %-d, %Y"
